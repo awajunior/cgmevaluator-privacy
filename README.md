@@ -68,4 +68,3 @@ awajunior@gmail.com
 ## 9. Changes
 
 If this policy ever changes, the updated version will be published at this same URL with a new "Last updated" date.
-
