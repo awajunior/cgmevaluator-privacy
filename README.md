@@ -1,7 +1,7 @@
 # Privacy Policy — CGM Evaluator
 
 **Last updated:** June 2026
-**Developer:** AAPS Assist / Antonio Wanderley
+**Developer:** awajunior
 
 ---
 
