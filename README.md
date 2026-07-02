@@ -1,7 +1,8 @@
 # Privacy Policy — CGM Evaluator
 
-**Last updated:** June 2026
-**Developer:** awajunior
+**Last updated:** July 2026 · **Developer:** awajunior · **Version:** 2.2.7
+
+📲 **Available on Google Play:** https://play.google.com/store/apps/details?id=br.com.aapsassist.cgmevaluator
 
 ---
 
@@ -18,6 +19,7 @@ CGM Evaluator ("the App") is a free, offline decision-support tool for people wi
 The App does **not** collect, store, or transmit any personal information.
 
 Specifically:
+
 - No name, email, or account is required.
 - No health or medical data is transmitted to any server.
 - No analytics, crash reporting, or advertising SDKs are included.
@@ -28,6 +30,7 @@ Specifically:
 ## 3. Local Storage
 
 All data you enter (glucose readings, evaluation history) is saved **locally on your device only**, using Android's SharedPreferences storage. This data:
+
 - Never leaves your device.
 - Can be cleared at any time from within the App (Sensor Log → Clear History).
 - Is deleted when you uninstall the App.
@@ -60,8 +63,7 @@ CGM Evaluator is a decision-support tool for informational purposes only. It is 
 
 ## 8. Contact
 
-If you have questions about this Privacy Policy, contact:
-awajunior@gmail.com
+If you have questions about this Privacy Policy, contact: awajunior@gmail.com
 
 ---
 
